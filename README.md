@@ -90,4 +90,4 @@ Contributions are welcome! Please open issues or submit pull requests for bug fi
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-**Made with ❤️ by the Deskflow UI team**
+**Made with ❤️ by the Team MITS**
