@@ -1,6 +1,6 @@
-# Deskflow UI
+# Deskflow
 
-Deskflow UI is a modern, responsive user interface for help desk and customer support teams. Built with React, TypeScript, Vite, shadcn-ui, and Tailwind CSS, Deskflow UI provides a robust foundation for building collaborative, analytics-driven support applications.
+Deskflow is a modern, responsive user interface for help desk and customer support teams. Built with React, TypeScript, Vite, shadcn-ui, and Tailwind CSS, Deskflow provides a robust foundation for building collaborative, analytics-driven support applications.
 
 ## Features
 
@@ -62,7 +62,7 @@ npm run preview
 ## Project Structure
 
 ```
-deskflow-ui/
+deskflow-/
 ├── src/
 │   ├── assets/          # Images and static assets
 │   ├── components/      # Reusable UI components
