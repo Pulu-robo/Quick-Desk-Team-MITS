@@ -1,6 +1,6 @@
-# Deskflow
+# Quick Desk
 
-Deskflow is a modern, responsive user interface for help desk and customer support teams. Built with React, TypeScript, Vite, shadcn-ui, and Tailwind CSS, Deskflow provides a robust foundation for building collaborative, analytics-driven support applications.
+Quick Desk is a modern, responsive user interface for help desk and customer support teams. Built with React, TypeScript, Vite, shadcn-ui, and Tailwind CSS, Quick Desk provides a robust foundation for building collaborative, analytics-driven support applications.
 
 ## Features
 
@@ -29,8 +29,8 @@ Deskflow is a modern, responsive user interface for help desk and customer suppo
 
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/Pulu-robo/deskflow-ui.git
-   cd deskflow-ui
+   git clone https://github.com/Pulu-robo/Quick Desk-ui.git
+   cd Quick Desk-ui
    ```
 
 2. **Install dependencies**
@@ -62,7 +62,7 @@ npm run preview
 ## Project Structure
 
 ```
-deskflow-/
+Quick Desk-/
 ├── src/
 │   ├── assets/          # Images and static assets
 │   ├── components/      # Reusable UI components
