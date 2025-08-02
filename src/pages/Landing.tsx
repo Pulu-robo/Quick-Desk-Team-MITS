@@ -151,7 +151,7 @@ export default function Landing() {
       <footer className="py-8 px-4 border-t border-border bg-muted/30">
         <div className="container mx-auto text-center">
           <p className="text-muted-foreground">
-            © 2024 QuickDesk. Built with ❤️ for better customer support.
+            © 2025 QuickDesk. Built by Team-MITS for better customer support.
           </p>
         </div>
       </footer>
